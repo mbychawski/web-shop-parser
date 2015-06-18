@@ -1,0 +1,123 @@
+{
+  "processor-brand" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "processor-model" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "ram-size" : {
+    "display-unit" : "GB",
+    "sqlType" : "int(11)",
+    "type" : "number"
+  },
+
+  "hard-drive-size" : {
+    "display-unit" : "GB",
+    "sqlType" : "int(11)",
+    "type" : "number"
+  },
+
+  "brand" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "model" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "weight" : {
+    "display-unit" : "g",
+    "sqlType" : "int(11)",
+    "type" : "number"
+  },
+
+  "price" : {
+    "display-unit" : "zł",
+    "sqlType" : "float",
+    "type" : "number"
+  },
+
+  "screen-size" : {
+    "display-unit" : "''",
+    "sqlType" : "float",
+    "type" : "number"
+  },
+
+  "screen-resolution" : {
+    "display-unit" : "px",
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "screen-type" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "memory-size" : {
+    "display-unit" : "GB",
+    "sqlType" : "int(11)",
+    "type" : "number"
+  },
+
+  "operating-system" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "mouse-type" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "keyboard-type" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "button-count" : {
+    "sqlType" : "int(11)",
+    "type" : "number"
+  },
+
+  "bandwidth" : {
+    "display-unit" : "Hz",
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "microphone" : {
+    "sqlType" : "text",
+    "type" : "string"
+  },
+
+  "speakers-count" : {
+    "sqlType" : "int(11)",
+    "type" : "number"
+  },
+
+  "power" : {
+    "display-unit" : "W",
+    "sqlType" : "int(11)",
+    "type" : "number"
+  },
+
+  "matrix" : {
+    "display-unit" : "MPX",
+    "sqlType" : "float",
+    "type" : "number"
+  },
+
+  "display-size" : {
+    "display-unit" : "''",
+    "sqlType" : "float",
+    "type" : "number"
+  }
+}
+

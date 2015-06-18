@@ -1,0 +1,11 @@
+{
+	"name"			: "sag-wedt-parser",
+	"description"	: "SAG-WEDT Project parsing descriptopns to usable database",
+	"version"		: "0.0.1",
+		"jsdom" : "0.10.x",
+		"html-to-text" : "0.0.x",
+		"underscore" : "1.6.x",
+		"mysql" : "2.3.x",
+		"q" : "1.0.x"
+	}
+}

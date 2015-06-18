@@ -1,0 +1,55 @@
+{
+	"__attributes__" : ["brand", "model", "price"],
+
+	"computer" : {
+		"__attributes__" : ["processor-brand", "processor-model", "ram-size", "hard-drive-size", "weight"],
+		"pc" : {},
+		"notebook" : {
+			"__attributes__" : ["screen-size", "screen-resolution"]
+		}
+	},
+
+	"mobile-device" : {
+		"__attributes__" : ["screen-size", "screen-type", "memory-size", "operating-system", "weight"],
+
+		"smartphone" : {},
+
+		"tablet" : {}
+	},
+
+	"accessory" : {
+		"mouse" : {
+			"__attributes__" : ["mouse-type", "button-count"],
+
+			"wire-mouse" : {},
+			"wireless-mouse" : {}
+		},
+
+		"keyboard" : {
+			"__attributes__" : ["keyboard-type"],
+
+			"wire-keyboard" : {},
+			"wireless-keyboard" : {}
+		},
+
+		"headphones" : {
+			"__attributes__" : ["bandwidth", "microphone"]
+		},
+
+		"speakers" : {
+			"__attributes__" : ["speakers-count", "power"]
+		}
+	},
+
+	"camera" : {
+		"__attributes__" : ["matrix", "display-size", "weight"],
+
+		"slr-camera" : {
+			"__attributes__" : []
+		},
+
+		"compact-camera" : {
+			"__attributes__" : []
+		}
+	}
+}

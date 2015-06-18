@@ -1,0 +1,75 @@
+{
+    "slr-camera": [
+        "http://www.komputronik.pl/product/182867/Foto_i_Video/Aparaty_cyfrowe/Pentax_K_5_II_18_135_mm_WR_czarny.html",
+        "http://www.komputronik.pl/productVariantGroup/1132/Foto_i_Video/Aparaty_cyfrowe/Canon_EOS_60D.html",
+        "http://www.komputronik.pl/product/155947/Foto_i_Video/Aparaty_cyfrowe/Nikon_D800_korpus.html"
+    ],
+
+    "compact-camera": [
+        "http://www.komputronik.pl/productVariantGroup/1082/Foto_i_Video/Aparaty_cyfrowe/Canon_PowerShot_SX260_HS.html",
+        "http://www.komputronik.pl/product/165329/Foto_i_Video/Aparaty_cyfrowe/Sony_Cyber_Shot_DSC_RX100.html",
+        "http://www.komputronik.pl/product/166106/Foto_i_Video/Aparaty_cyfrowe/Olympus_SZ_31_MR_Czarny.html"
+    ],
+
+    "pc": [
+        "http://www.komputronik.pl/product/199321/Komputery/Komputery_PC/Komputronik_Sensilo_MH_400_H001_.html",
+        "http://www.komputronik.pl/product/180151/Komputery/Komputery_PC/Komputronik_Sensilo_IH_70_I001_Nvidia_limited_edition.html",
+        "http://www.komputronik.pl/product/226894/Komputery/Komputery_PC/Komputer_California_Access_HS_13.html"
+    ],
+
+    "notebook": [
+        "http://www.komputronik.pl/productVariantGroup/1210/Komputery/Laptopy/Samsung_ATIV_Book_2_15_6_.html",
+        "http://www.komputronik.pl/productVariantGroup/1428/Komputery/Laptopy/HP_ProBook_6570b_B6P89EA_.html",
+        "http://www.komputronik.pl/product/176623/Komputery/Laptopy/Toshiba_Satelite_U840W_10J.html",
+        "http://www.komputronik.pl/product/192061/Strefa_Gier/PC/MSI_GX70_3BE_014XPL.html",
+        "http://www.komputronik.pl/product/198361/Komputery/Laptopy/Lenovo_G700_59_377124_.html"
+    ],
+
+    "wireless-mouse": [
+        "http://www.komputronik.pl/product/175609/Sprzet_komputerowy_/Peryferia/Logitech_Wireless_Mouse_M185_Blue.html",
+        "http://www.komputronik.pl/product/212343/Sprzet_komputerowy_/Peryferia/CALIFORNIA_ACCESS_mysz_bezprzewodowa_CA_1003_CALIMESA.html",
+        "http://www.komputronik.pl/product/110905/Sprzet_komputerowy_/Peryferia/Tracer_Blaster_RF_TRM_150W_nano_mini_black.html"
+    ],
+
+    "wire-mouse": [
+        "http://www.komputronik.pl/product/67937/Sprzet_komputerowy_/Peryferia/Tracer_Ruby_TRM_134_TRM_SO34_USB.html",
+        "http://www.komputronik.pl/product/199659/Sprzet_komputerowy_/Peryferia/Logitech_B100_OEM.html",
+        "http://www.komputronik.pl/product/134479/Sprzet_komputerowy_/Peryferia/MODECOM_przewodowa_mysz_optyczna_MC_M4_Black_OEM_bez_logo.html"
+    ],
+
+    "wire-keyboard": [
+        "http://www.komputronik.pl/product/27261/Sprzet_komputerowy_/Peryferia/A4_TECH_LCD_720_EVO_Slim_Sun_.html",
+        "http://www.komputronik.pl/product/75903/Sprzet_komputerowy_/Peryferia/Tracer_Maverick_Black_USB.html",
+        "http://www.komputronik.pl/product/104528/Sprzet_komputerowy_/Peryferia/Logitech_K120_Keyboard_for_Business.html"
+    ],
+
+    "wireless-keyboard": [
+        "http://www.komputronik.pl/product/94554/Sprzet_komputerowy_/Peryferia/Microsoft_Arc_Keyboard.html",
+        "http://www.komputronik.pl/product/135251/Sprzet_komputerowy_/Peryferia/Logitech_K400_Touch.html",
+        "http://www.komputronik.pl/product/176875/Sprzet_komputerowy_/Peryferia/Rapoo_klawiatura_bezprzewodowa_2_4G_touchpad_E2700_czarna.html"
+    ],
+
+    "headphones": [
+        "http://www.komputronik.pl/product/166147/Akcesoria/Akcesoria_do_telefonow_i_smartphonow/SENNHEISER_MM_550_X_Travel_sluchawki_bezprzewodowe_z_mikrofonem_bluetooth_.html",
+        "http://www.komputronik.pl/product/193309/Sprzet_komputerowy_/Peryferia/Thermaltake_eSports_Shock_Dynamite_Orange.html",
+        "http://www.komputronik.pl/product/96125/Sprzet_komputerowy_/Peryferia/Creative_EP_630.html"
+    ],
+
+    "speakers": [
+        "http://www.komputronik.pl/product/75483/Sprzet_komputerowy_/Peryferia/Tracer_Supreme.html",
+        "http://www.komputronik.pl/product/99903/Sprzet_komputerowy_/Peryferia/MODECOM_2_1_MC_2090_Barbie.html",
+        "http://www.komputronik.pl/product/203545/Sprzet_komputerowy_/Peryferia/Creative_Inspire_A550.html"
+    ],
+
+    "smartphone": [
+        "http://www.komputronik.pl/product/198963/Telefony_i_GPS_/Telefony_GSM_i_Smartphone_/HTC_Desire_500_dual_sim_glossy_black.html",
+        "http://www.komputronik.pl/product/159944/Telefony_i_GPS_/Telefony_GSM_i_Smartphone_/Samsung_S6500_Galaxy_Mini_2.html",
+        "http://www.komputronik.pl/product/183640/Telefony_i_GPS_/Telefony_GSM_i_Smartphone_/LG_E975_Swift_G.html"
+    ],
+
+    "tablet": [
+        "http://www.komputronik.pl/product/206795/Komputery/Tablety/Samsung_P605_Galaxy_Note_10_1_4G_LTE_16GB_white.html",
+        "http://www.komputronik.pl/product/194209/Komputery/Tablety/Lenovo_IdeaTab_S6000_16GB_WiFi.html",
+        "http://www.komputronik.pl/product/211351/Komputery/Tablety/DELL_Venue_8_PRO_czarny.html"
+    ]
+}

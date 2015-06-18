@@ -1,0 +1,1 @@
+Application extracting data about products from Internet shops and putting it into database (Node.js, MySQL)
